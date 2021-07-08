@@ -1,6 +1,6 @@
 # 魁首
 
-🔔一个没有天赋，只能跟在别人后面慢赶的前端程序员！  💡[博客](https://blog.lijianlin.com.cn/)
+🔔一个没有天赋的前端程序员！  💡[博客](https://blog.lijianlin.com.cn/)
 
 ## 关于我
 
