@@ -2,6 +2,8 @@
 
 🔔一个没有天赋的前端程序员👨‍💻  💡[博客](https://blog.lijianlin.com.cn/)
 
+![](https://github.com/kuishou68/kuishou68/blob/output/github-contribution-grid-snake.svg)
+
 ## 关于我
 
 🔰**社交**:
