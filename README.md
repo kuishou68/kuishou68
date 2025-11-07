@@ -19,8 +19,4 @@
 
 [![](https://img.shields.io/badge/dynamic/json?color=%23ff69b4&label=%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9&query=%24.data.totalSubs&suffix=%20%20%E7%B2%89%E4%B8%9D%20&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D488055374&logo=bilibili)](https://space.bilibili.com/488055374/dynamic) [![](https://img.shields.io/badge/InfoQ-%E9%AD%81%E9%A6%96-%231458d4)](https://www.infoq.cn/profile/C952AE32689EE7/publish)
 
-## 名字由来
-
-✨魁首，初中创QQ的时候就想到这个名字就一直没换过，多用作褒义，意思是指称在同辈中才华居第一的人。
-
 
