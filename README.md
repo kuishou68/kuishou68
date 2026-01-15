@@ -1,14 +1,12 @@
-# 破茧
+<img width="1209" height="699" alt="image" src="https://github.com/user-attachments/assets/17041299-f068-462b-bfb1-de698e7b1e9a" /># cocoon-break
 
-🔔一个没有天赋的前端程序员👨‍💻  💡[博客](https://blog.lijianlin.com.cn/)
+🔔A front-end programmer without talent👨‍💻  💡[博客](https://blog.lijianlin.com.cn/)
 
 ![](https://github.com/kuishou68/kuishou68/blob/output/github-contribution-grid-snake.svg)
 
-## 关于我
+## About Me
 
-🔰**社交**:
-
-| 🤖[Github](https://github.com/kuishou68) |🔑[CSDN](https://blog.csdn.net/weixin_44019370?spm=1010.2135.3001.5421) | 💎[掘金](https://juejin.cn/user/3817931570691031/posts) | 📖 [知乎](https://www.zhihu.com/people/kui-shou-27-41/posts) | 💡[博客](https://blog.lijianlin.com.cn/) |
+| 🤖[Github](https://github.com/kuishou68) |🔑[CSDN](https://blog.csdn.net/weixin_44019370?spm=1010.2135.3001.5421) | 💎[juejin](https://juejin.cn/user/3817931570691031/posts) | 📖 [zhihu](https://www.zhihu.com/people/kui-shou-27-41/posts) | 💡[blog](https://blog.lijianlin.com.cn/) |
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=kuishou68&theme=vue&show_icons=true&icon_color=41b883&text_color=718096&hide_title=true" />
 
 [![github](https://img.shields.io/github/stars/kuishou68?logo=github&logoColor=Stars)](https://github.com/kuishou68)   [![](https://img.shields.io/badge/CSDN-1w%2B%E8%AE%BF%E9%97%AE%E9%87%8F-%23fc5531)](https://blog.csdn.net/weixin_44019370?type=blog)    [![](https://img.shields.io/badge/%E6%8E%98%E9%87%91-%40%E9%AD%81%E9%A6%96-blue&logo=zhihu)](https://juejin.cn/user/3817931570691031/posts)
