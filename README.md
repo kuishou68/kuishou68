@@ -1,6 +1,6 @@
-<img width="1209" height="699" alt="image" src="https://github.com/user-attachments/assets/17041299-f068-462b-bfb1-de698e7b1e9a" /># cocoon-break
+# cocoon-break
 
-🔔A front-end programmer without talent👨‍💻  💡[博客](https://blog.lijianlin.com.cn/)
+🔔A front-end programmer without talent👨‍💻  💡[blog](https://blog.lijianlin.com.cn/)
 
 ![](https://github.com/kuishou68/kuishou68/blob/output/github-contribution-grid-snake.svg)
 
