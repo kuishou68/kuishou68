@@ -64,13 +64,6 @@ At the same time, I am building my own **Cocoon** product stack across `Home`, `
 | **Vuejs** | A practical Vue collection that shows a long-running front-end engineering foundation. | [![Vuejs](https://img.shields.io/github/stars/kuishou68/Vuejs?style=flat-square&logo=github&label=kuishou68%2FVuejs)](https://github.com/kuishou68/Vuejs) |
 | **hiolabs** | A more business-oriented customization project that shows I do not just build demos. | [![hiolabs](https://img.shields.io/github/stars/kuishou68/hiolabs?style=flat-square&logo=github&label=kuishou68%2Fhiolabs)](https://github.com/kuishou68/hiolabs) |
 
-## What I'm Building Now
-
-- [**Cocoon Home**](https://home.lijianlin.com.cn) - Unified product entry and multilingual product showcase
-- [**Cocoon API**](https://api.lijianlin.com.cn) - OpenAI-compatible API gateway
-- [**Cocoon SMS**](https://sms.lijianlin.com.cn) - SMS marketing and notification platform
-- [**Cocoon VPN**](https://vpn.lijianlin.com.cn) - Global-node VPN service and panel
-
 ## Community
 
 <p align="center">
@@ -79,9 +72,6 @@ At the same time, I am building my own **Cocoon** product stack across `Home`, `
   </a>
   <a href="https://discord.gg/dSzXuS6k">
     <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server" />
-  </a>
-  <a href="https://home.lijianlin.com.cn">
-    <img src="https://img.shields.io/badge/Home-Visit%20Portal-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Home Portal" />
   </a>
   <a href="https://blog.lijianlin.com.cn/">
     <img src="https://img.shields.io/badge/Blog-Read%20Posts-E11D48?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog" />
