@@ -19,20 +19,11 @@
   <a href="https://github.com/kuishou68?tab=repositories">
     <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkuishou68&logo=github" alt="Public Repos" />
   </a>
-  <a href="https://github.com/iOfficeAI/AionUi">
-    <img src="https://img.shields.io/github/stars/iOfficeAI/AionUi?style=flat-square&logo=github&label=AionUi" alt="AionUi stars" />
-  </a>
   <a href="https://space.bilibili.com/488055374">
     <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=Bilibili&query=%24.data.follower&suffix=%20followers&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D488055374&logo=bilibili&logoColor=white&color=00A1D6" alt="Bilibili followers" />
   </a>
   <a href="https://blog.csdn.net/weixin_44019370?type=blog">
     <img src="https://img.shields.io/badge/CSDN-67%2C108%20views-FC5531?style=flat-square&logo=csdn&logoColor=white" alt="CSDN views" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1400&center=true&vCenter=true&width=860&lines=From+Vue+and+mini-programs+to+AI+tooling+and+SaaS+infrastructure;Contributor+to+AionUi+(18k%E2%98%85)+and+builder+of+the+Cocoon+stack;Shipping+Home%2C+API%2C+SMS%2C+VPN+and+community+products+on+AWS">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1400&center=true&vCenter=true&width=860&lines=From+Vue+and+mini-programs+to+AI+tooling+and+SaaS+infrastructure;Contributor+to+AionUi+(18k%E2%98%85)+and+builder+of+the+Cocoon+stack;Shipping+Home%2C+API%2C+SMS%2C+VPN+and+community+products+on+AWS" alt="Typing SVG" />
   </a>
 </p>
 
@@ -46,12 +37,11 @@ Bilibili followers are dynamic via the official relation/stat API.
 
 I'm **Cocoon-Break**. My earlier public work was centered on front-end engineering, Vue, uni-app, and WeChat mini-programs, with repositories such as [`neteaseMusic`](https://github.com/kuishou68/neteaseMusic) `147★`, [`Vuejs`](https://github.com/kuishou68/Vuejs) `46★`, [`hiolabs`](https://github.com/kuishou68/hiolabs) `17★`, and [`fruitsShop`](https://github.com/kuishou68/fruitsShop) `11★`.
 
-More recently, I expanded from front-end delivery into **AI tooling, SaaS products, and AWS infrastructure**. The most visible project I have contributed to is [`iOfficeAI/AionUi`](https://github.com/iOfficeAI/AionUi) `18k★+`, where I worked on model integrations, settings flows, build issues, and stability fixes around Codex, Gemini, Claude, and local agents.
+More recently, I expanded from front-end delivery into **AI tooling, SaaS products, and AWS infrastructure**. where I worked on model integrations, settings flows, build issues, and stability fixes around Codex, Gemini, Claude, and local agents.
 
 At the same time, I am building my own **Cocoon** product stack across `Home`, `API`, `SMS`, `VPN`, and community channels.
 
 - Front-end, Vue, uni-app, and mini-program background
-- Contributor to `iOfficeAI/AionUi`
 - Building Cocoon products and communities on AWS
 - Writing across CSDN, Juejin, Zhihu, Bilibili, and my blog
 
@@ -59,7 +49,6 @@ At the same time, I am building my own **Cocoon** product stack across `Home`, `
 
 | Project | What It Says About Me | Link |
 | --- | --- | --- |
-| **AionUi** | Worked on a large AI tooling project with production-facing model integration, settings, build, and stability work. | [![AionUi](https://img.shields.io/github/stars/iOfficeAI/AionUi?style=flat-square&logo=github&label=iOfficeAI%2FAionUi)](https://github.com/iOfficeAI/AionUi) |
 | **neteaseMusic** | My highest-starred public repository, reflecting early product thinking and front-end polishing for mini-program experiences. | [![neteaseMusic](https://img.shields.io/github/stars/kuishou68/neteaseMusic?style=flat-square&logo=github&label=kuishou68%2FneteaseMusic)](https://github.com/kuishou68/neteaseMusic) |
 | **Vuejs** | A practical Vue collection that shows a long-running front-end engineering foundation. | [![Vuejs](https://img.shields.io/github/stars/kuishou68/Vuejs?style=flat-square&logo=github&label=kuishou68%2FVuejs)](https://github.com/kuishou68/Vuejs) |
 | **hiolabs** | A more business-oriented customization project that shows I do not just build demos. | [![hiolabs](https://img.shields.io/github/stars/kuishou68/hiolabs?style=flat-square&logo=github&label=kuishou68%2Fhiolabs)](https://github.com/kuishou68/hiolabs) |
