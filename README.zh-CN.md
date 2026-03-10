@@ -39,8 +39,6 @@ Bilibili 粉丝数仍然通过官方 relation/stat 接口动态展示。
 
 这几年，我把重心逐步从前端单点开发扩展到 **AI 工具链、SaaS 产品和 AWS 基础设施落地**。公开可见、Star 最高的参与项目里，我持续参与了 Codex、Gemini、Claude、本地 agent 相关的模型接入、设置流程、构建问题和稳定性修复。
 
-同时，我也在持续建设自己的 **Cocoon** 产品矩阵，覆盖 `Home`、`API`、`SMS`、`VPN` 和社区入口。
-
 - 前端、Vue、uni-app、小程序背景
 - 在 AWS 上持续建设 Cocoon 产品和社区
 - 持续输出于 CSDN、掘金、知乎、Bilibili 和个人博客
