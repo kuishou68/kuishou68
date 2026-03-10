@@ -39,8 +39,6 @@ I'm **Cocoon-Break**. My earlier public work was centered on front-end engineeri
 
 More recently, I expanded from front-end delivery into **AI tooling, SaaS products, and AWS infrastructure**. where I worked on model integrations, settings flows, build issues, and stability fixes around Codex, Gemini, Claude, and local agents.
 
-At the same time, I am building my own **Cocoon** product stack across `Home`, `API`, `SMS`, `VPN`, and community channels.
-
 - Front-end, Vue, uni-app, and mini-program background
 - Building Cocoon products and communities on AWS
 - Writing across CSDN, Juejin, Zhihu, Bilibili, and my blog
