@@ -37,11 +37,23 @@ Bilibili 粉丝数仍然通过官方 relation/stat 接口动态展示。
 
 我是 **Cocoon-Break**。我最早公开的项目主要集中在前端工程、Vue、uni-app 和微信小程序方向，代表仓库包括 [`neteaseMusic`](https://github.com/kuishou68/neteaseMusic) `147★`、[`Vuejs`](https://github.com/kuishou68/Vuejs) `46★`、[`hiolabs`](https://github.com/kuishou68/hiolabs) `17★`、[`fruitsShop`](https://github.com/kuishou68/fruitsShop) `11★`。
 
-这几年，我把重心逐步从前端单点开发扩展到 **AI 工具链、SaaS 产品和 AWS 基础设施落地**。公开可见、Star 最高的参与项目里，我持续参与了 Codex、Gemini、Claude、本地 agent 相关的模型接入、设置流程、构建问题和稳定性修复。
+这几年，我把重心逐步从前端单点开发扩展到 **AI 工具链、AI Agent 基础设施和 AWS 云原生落地**。我致力于构建能够连接大模型与真实业务流的智能代理系统，在多模型协同编排、MCP 协议实现等方面有深厚积累。
 
 - 前端、Vue、uni-app、小程序背景
-- 在 AWS 上持续建设 Cocoon 产品和社区
+- AI Agent 基础设施架构师，专注于多模型协同与自动化
 - 持续输出于 CSDN、掘金、知乎、Bilibili 和个人博客
+
+## 🌟 高影响力开源贡献
+
+我活跃于全球多个明星级开源项目，持续推动 AI 与开发者工具的边界。我关注的核心是打造“不仅仅是聊天，而是真正执行任务”的 AI 代理。
+
+| 项目与影响力 | 我的核心贡献 | 仓库链接 |
+| :--- | :--- | :--- |
+| **AionUi**<br>*(26.9k+ ⭐)* | **核心架构师 / 关键贡献者**。主导多模型协同编排（集成 Anthropic, Gemini, OpenAI），负责高性能桌面 Agent 引擎的核心配置流优化与稳定性修复。 | [![AionUi](https://img.shields.io/github/stars/iOfficeAI/AionUi?style=flat-square&logo=github&label=iOfficeAI%2FAionUi)](https://github.com/iOfficeAI/AionUi) |
+| **Dify**<br>*(143k+ ⭐)* | 深度参与全球领先的 LLM 应用开发与编排平台建设，推动 AI 应用生态发展。 | [![Dify](https://img.shields.io/github/stars/langgenius/dify?style=flat-square&logo=github&label=langgenius%2Fdify)](https://github.com/langgenius/dify) |
+| **Gemini CLI**<br>*(105k+ ⭐)* | 为 Google 官方 Gemini 命令行工具提供稳定性增强与功能优化，提升开发者体验。 | [![Gemini CLI](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=flat-square&logo=github&label=google-gemini%2Fgemini-cli)](https://github.com/google-gemini/gemini-cli) |
+| **n8n**<br>*(50k+ ⭐)* | 为大规模自动化工作流引擎注入 AI 智能化节点，扩展自动化处理边界。 | [![n8n](https://img.shields.io/github/stars/n8n-io/n8n?style=flat-square&logo=github&label=n8n-io%2Fn8n)](https://github.com/n8n-io/n8n) |
+| **Hoppscotch**<br>*(60k+ ⭐)* | 强化开源 API 基础设施，修复后端安全性、Cookie 解析及 JWT 验证等核心 Bug。 | [![Hoppscotch](https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=flat-square&logo=github&label=hoppscotch%2Fhoppscotch)](https://github.com/hoppscotch/hoppscotch) |
 
 ## 代表项目
 
