@@ -53,7 +53,6 @@ I am actively shaping the future of AI Agent infrastructure and developer toolin
 | **Dify**<br>*(143k+ ⭐)* | Contributed to the world's leading LLM app development and orchestration platform. | [![Dify](https://img.shields.io/github/stars/langgenius/dify?style=flat-square&logo=github&label=langgenius%2Fdify)](https://github.com/langgenius/dify) |
 | **Gemini CLI**<br>*(105k+ ⭐)* | Enhanced Google's official CLI ecosystem for Gemini models with stability improvements. | [![Gemini CLI](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=flat-square&logo=github&label=google-gemini%2Fgemini-cli)](https://github.com/google-gemini/gemini-cli) |
 | **n8n**<br>*(50k+ ⭐)* | Infused AI intelligence and enhanced node capabilities into this large-scale workflow automation engine. | [![n8n](https://img.shields.io/github/stars/n8n-io/n8n?style=flat-square&logo=github&label=n8n-io%2Fn8n)](https://github.com/n8n-io/n8n) |
-| **Hoppscotch**<br>*(60k+ ⭐)* | Hardened API infrastructure by resolving critical backend security, Cookie parsing, and JWT validation bugs. | [![Hoppscotch](https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=flat-square&logo=github&label=hoppscotch%2Fhoppscotch)](https://github.com/hoppscotch/hoppscotch) |
 
 ## Featured Projects
 
